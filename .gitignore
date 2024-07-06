@@ -1,3 +1,4 @@
 RecipeBook/RecipeBook.pro.user
 build-RecipeBook-Desktop_Qt_6_5_2_MSVC2019_64bit-Release/*
+build/*
 tests/*

@@ -400,7 +400,7 @@ int AggregateProxyModel::TreeItem::row() const
 
 void AggregateProxyModel::TreeItem::clear()
 {
-    foreach (auto child, _childs) {
+    for (auto child : _childs) {
         delete child;
     }
     _childs.clear();
