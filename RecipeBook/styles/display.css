@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+}
+h1 {
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+#information {
+  width: 100%;
+  display: flex;
+}
+#prepTime {
+  margin-left: 5em;
+}
+#cookTime {
+  margin-left: 5em;
+}
+.duration {
+  font-weight: bold;
+}
+.notes {
+  font-style: italic;
+}
+.indGroupTitle {
+  font-weight: bold;
+}
+.quantity {
+  font-weight: bold;
+}
+.indStepTitle {
+  font-weight: bold;
+}
